@@ -1,0 +1,22 @@
+body{
+    background-color: ghostwhite;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.form-label{
+    font-size: 14px;
+    font-style: italic;
+}
+
+p{
+    font-size: 14px;
+}
